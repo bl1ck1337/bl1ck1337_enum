@@ -28,4 +28,4 @@ Anew: You Can Download It from here [Anew](https://github.com/tomnomnom/anew/rel
 Censys-Subdomain-Finder: You Can Download it from here [Censys-Subdomain-Finder](https://github.com/christophetd/censys-subdomain-finder)
 
 # Finaly
-> Please Note That This is just a beta i'll add more on the features like portscanning, subdomain takeover scan, cve's scanning etc ... keep watching this repo :)
+> Please Note That This is just a beta i'll add more on the features like portscanning, subdomain takeover scan, cve's scanning, endpoint's and js collecting etc .. ... keep watching this repo :)
