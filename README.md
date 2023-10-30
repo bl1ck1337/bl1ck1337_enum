@@ -16,7 +16,7 @@
 
 The ```scope.txt``` should contain a scope for your subdomains like: att.com etc ...
 >
-The ```automation``` should be the name of the folder ofc ofter create it : mkdir folder
+The ```automation``` should be the name of the folder
 
 # Requirements
 [NOTE]: Please Subfinder Should Include A Configuration File From your ~/.config/subfinder/provider-config.yaml that should contain some api's
